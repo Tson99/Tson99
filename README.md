@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tson99
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning computer vision and natural language processing
+- 💞️ I’m looking to collaborate on github
