@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Tson99
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning computer vision and natural language processing
-- 💞️ I’m looking to collaborate on github
+[![Twitter: DotuansondnO](https://img.shields.io/twitter/follow/DotuansondnO?style=social)](https://twitter.com/DotuansondnO)
+[![Linkedin: tson99](https://img.shields.io/badge/-tson99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tson99/)](https://www.linkedin.com/in/tson99/)
+[![GitHub Tson99](https://img.shields.io/github/followers/Tson99?label=follow&style=social)](https://github.com/Tson99)
