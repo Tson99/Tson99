@@ -1,5 +1,10 @@
-### 👋 Hi, I’m @Tson99
-[![Twitter: DotuansondnO](https://img.shields.io/twitter/follow/DotuansondnO?style=social)](https://twitter.com/DotuansondnO)
-[![Linkedin: tson99](https://img.shields.io/badge/-tson99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tson99/)](https://www.linkedin.com/in/tson99/)
-[![GitHub Tson99](https://img.shields.io/github/followers/Tson99?label=follow&style=social)](https://github.com/Tson99)
+### Hi there, I’m @Tson99 👋
 
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+Here are some quick things about me:
+- I'm a ML Engineer who is interested in Machine Learning and MLops.
+- Having a strong passion for coding and learning new things.
+- I'm graduated from Da Nang University of Technology with GPA: 3.79/4.
+
+Contact me: [![Linkedin: tson99](https://img.shields.io/badge/-tson99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tson99/)](https://www.linkedin.com/in/tson99/) 
